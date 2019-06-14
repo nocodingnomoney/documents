@@ -9,7 +9,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "Model",
+			"name": "产品配置",
 			"ownedElements": [
 				{
 					"_type": "FCFlowchart",
@@ -25,7 +25,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFrTuf348k+9ZA="
 							},
-							"name": "FlowchartDiagram1",
+							"name": "产品配置流程图",
 							"ownedViews": [
 								{
 									"_type": "FCTerminatorView",
@@ -1534,7 +1534,7 @@
 														"$ref": "AAAAAAFrT4L2MNOL5rM="
 													},
 													"font": "Arial;13;0",
-													"left": 75.97900390625,
+													"left": 75,
 													"top": 10,
 													"width": 53,
 													"height": 13,
@@ -1549,7 +1549,7 @@
 													"font": "Arial;13;1",
 													"left": 10,
 													"top": 10,
-													"width": 60.97900390625,
+													"width": 60,
 													"height": 13,
 													"text": "interaction"
 												}
@@ -1578,7 +1578,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "类图",
+					"name": "产品配置概念类图",
 					"ownedViews": [
 						{
 							"_type": "UMLClassView",
@@ -1635,9 +1635,9 @@
 											"font": "Arial;13;0",
 											"left": -576,
 											"top": 224,
-											"width": 73.67724609375,
+											"width": 90.27001953125,
 											"height": 13,
-											"text": "(from Model)"
+											"text": "(from 产品配置)"
 										},
 										{
 											"_type": "LabelView",
@@ -1811,9 +1811,9 @@
 											"font": "Arial;13;0",
 											"left": -672,
 											"top": -560,
-											"width": 73.67724609375,
+											"width": 90.27001953125,
 											"height": 13,
-											"text": "(from Model)"
+											"text": "(from 产品配置)"
 										},
 										{
 											"_type": "LabelView",
@@ -1973,7 +1973,7 @@
 											"font": "Arial;13;1",
 											"left": 389,
 											"top": 463,
-											"width": 91,
+											"width": 98,
 											"height": 13,
 											"text": "已审批通过产品"
 										},
@@ -1987,9 +1987,9 @@
 											"font": "Arial;13;0",
 											"left": -480,
 											"top": 240,
-											"width": 73.67724609375,
+											"width": 90.27001953125,
 											"height": 13,
-											"text": "(from Model)"
+											"text": "(from 产品配置)"
 										},
 										{
 											"_type": "LabelView",
@@ -2008,7 +2008,7 @@
 									"font": "Arial;13;0",
 									"left": 384,
 									"top": 456,
-									"width": 101,
+									"width": 108,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFrT4TDpdP15EQ="
@@ -2035,7 +2035,7 @@
 									"font": "Arial;13;0",
 									"left": 384,
 									"top": 481,
-									"width": 101,
+									"width": 108,
 									"height": 10
 								},
 								{
@@ -2050,7 +2050,7 @@
 									"font": "Arial;13;0",
 									"left": 384,
 									"top": 491,
-									"width": 101,
+									"width": 108,
 									"height": 10
 								},
 								{
@@ -2090,7 +2090,7 @@
 							"containerChangeable": true,
 							"left": 384,
 							"top": 456,
-							"width": 101,
+							"width": 108,
 							"height": 65,
 							"nameCompartment": {
 								"$ref": "AAAAAAFrT4TDpdP0kv4="
@@ -2163,9 +2163,9 @@
 											"font": "Arial;13;0",
 											"left": -640,
 											"top": -384,
-											"width": 73.67724609375,
+											"width": 90.27001953125,
 											"height": 13,
-											"text": "(from Model)"
+											"text": "(from 产品配置)"
 										},
 										{
 											"_type": "LabelView",
@@ -2339,9 +2339,9 @@
 											"font": "Arial;13;0",
 											"left": -464,
 											"top": -240,
-											"width": 73.67724609375,
+											"width": 90.27001953125,
 											"height": 13,
-											"text": "(from Model)"
+											"text": "(from 产品配置)"
 										},
 										{
 											"_type": "LabelView",
@@ -2515,9 +2515,9 @@
 											"font": "Arial;13;0",
 											"left": -608,
 											"top": -592,
-											"width": 73.67724609375,
+											"width": 90.27001953125,
 											"height": 13,
-											"text": "(from Model)"
+											"text": "(from 产品配置)"
 										},
 										{
 											"_type": "LabelView",
@@ -3466,7 +3466,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 447,
+									"left": 448,
 									"top": 429,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3487,8 +3487,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 462,
-									"top": 429,
+									"left": 463,
+									"top": 428,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -3508,7 +3508,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 418,
+									"left": 419,
 									"top": 430,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -3529,7 +3529,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 448,
+									"left": 449,
 									"top": 436,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -3550,8 +3550,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 461,
-									"top": 439,
+									"left": 463,
+									"top": 438,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -3571,7 +3571,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 420,
+									"left": 422,
 									"top": 432,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -3592,8 +3592,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 448,
-									"top": 423,
+									"left": 449,
+									"top": 422,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -3612,8 +3612,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 461,
-									"top": 420,
+									"left": 462,
+									"top": 419,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -3632,7 +3632,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 420,
+									"left": 421,
 									"top": 427,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -3678,7 +3678,7 @@
 								"$ref": "AAAAAAFrT6Z+sdcjwL0="
 							},
 							"lineStyle": 1,
-							"points": "433:417;433:455",
+							"points": "434:417;435:455",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFrT83ZGCswifw="
@@ -4274,7 +4274,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 322,
+									"left": 321,
 									"top": 415,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -4295,7 +4295,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 328,
+									"left": 327,
 									"top": 401,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -4316,7 +4316,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 309,
+									"left": 310,
 									"top": 442,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -4399,8 +4399,8 @@
 										"$ref": "AAAAAAFrU8uFmyt87Xc="
 									},
 									"font": "Arial;13;0",
-									"left": 301,
-									"top": 415,
+									"left": 300,
+									"top": 414,
 									"width": 33.591796875,
 									"height": 13,
 									"alpha": -0.1704221575201923,
@@ -4422,7 +4422,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 368,
-									"top": 421,
+									"top": 420,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -4442,7 +4442,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 358,
-									"top": 461,
+									"top": 460,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -4487,7 +4487,7 @@
 								"$ref": "AAAAAAFrT4Ri69OdAWk="
 							},
 							"lineStyle": 1,
-							"points": "249:406;383:465",
+							"points": "249:406;383:464",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFrU8uFnCt/xig="
@@ -4576,9 +4576,9 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -16,
-											"width": 73.67724609375,
+											"width": 90.27001953125,
 											"height": 13,
-											"text": "(from Model)"
+											"text": "(from 产品配置)"
 										},
 										{
 											"_type": "LabelView",
@@ -4715,7 +4715,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 449,
+									"left": 450,
 									"top": 529,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -4736,7 +4736,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 464,
+									"left": 465,
 									"top": 529,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -4757,7 +4757,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 420,
+									"left": 421,
 									"top": 530,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -4778,8 +4778,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 450,
-									"top": 540,
+									"left": 451,
+									"top": 541,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -4799,8 +4799,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 463,
-									"top": 543,
+									"left": 464,
+									"top": 544,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -4820,7 +4820,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 422,
+									"left": 423,
 									"top": 536,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -4841,7 +4841,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 450,
+									"left": 451,
 									"top": 519,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -4861,8 +4861,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 463,
-									"top": 516,
+									"left": 465,
+									"top": 517,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -4881,8 +4881,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 422,
-									"top": 523,
+									"left": 424,
+									"top": 522,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -4927,7 +4927,7 @@
 								"$ref": "AAAAAAFrT4TDpdPzkbc="
 							},
 							"lineStyle": 1,
-							"points": "435:521;435:551",
+							"points": "437:521;436:551",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFrU8vbJC8ovbc="
